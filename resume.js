@@ -5,7 +5,7 @@ const Resume={
 		Name:"Arun",
 		Email:"arunres124@gmail.com",
 		Phone:6473892787,
-        Address:"South st,India",
+                Address:"South st,India",
 		Degree:"B.Tech",
 		website:"Your web url",
 	},
